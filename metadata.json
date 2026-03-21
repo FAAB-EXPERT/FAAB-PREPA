@@ -1,0 +1,7 @@
+{
+  "name": "FAAB PREPA",
+  "description": "Une application complète de préparation de données (ETL) permettant la collecte, le filtrage massif, l'audit de qualité, le nettoyage, l'analyse de corrélation et la génération de rapports certifiés.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
